@@ -69,3 +69,25 @@
 //{
 //    Console.WriteLine("Четное");
 //}
+
+
+//   Задача №4
+
+
+//Console.WriteLine("Введите число ");
+//int a=Convert.ToInt32(Console.ReadLine());
+
+//int i = 1;
+//while (i < a)
+//{
+   
+ //  i= i+1;
+   
+  //  int k = i%2;
+   //if (k == 0)
+
+   //Console.Write(i);
+   //Console.Write(" ");
+
+//}
+
